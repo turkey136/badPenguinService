@@ -22,6 +22,9 @@
           <div>
             GitHub： https://github.com/turkey136/badPenguinService
           </div>
+          <div>
+            Blog： https://takimototurkey.hatenablog.com/
+          </div>
         </div>
       </v-col>
     </v-row>
