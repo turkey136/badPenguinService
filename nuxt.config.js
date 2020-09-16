@@ -1,4 +1,4 @@
-
+const domain = 'https://www.bad-penguin-service.net/'
 export default {
   /*
   ** Nuxt rendering mode
@@ -51,6 +51,10 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    ['@nuxtjs/google-adsense', {
+        id: 'ca-pub-2837697831824372',
+        pageLevelAds: true
+    }]
   ],
   /*
   ** Build configuration
